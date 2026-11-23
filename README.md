@@ -74,7 +74,7 @@ agentic_rag_chatbot/
 ## Getting Started
 
 ```bash
-git clone https://github.com/AmanDataverse/Agentic_RAG_chatbot.git
+git clone https://github.com/aman-sharma-ai/Agentic_RAG_chatbot.git
 cd Agentic_RAG_chatbot
 pip install -r requirements.txt
 
